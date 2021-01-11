@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/JiaWaWaGv2Web_v1.1_Joystick.unity
-    guid: 52a3a983fbcc8a2448a232726e4654ee
+    path: Assets/Scenes/JiaWaWaGv2Web_v1.1.1_demo.unity
+    guid: 1d68cd3914c06497c80075d73c5879ff
   m_configObjects: {}
